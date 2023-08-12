@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kush Arora</h1>
 <h3 align="center">An aspiring Software Engineer</h3>
 
+<div align="center">
+  <img width="40%" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611e4b3dd4e9f7d478e006635e3dec2bb84323f1427&amp;rid=giphy.gif&amp;ct=g" />
+</div>
+
 <h3 align="left">Languages:</h3>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -50,6 +54,9 @@
 <br/>
 
 **📈 My Github Stats:**
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kush458&theme=modern-lilac2" alt="kush458" /></p>
+<div>
+  <img align="left" width="46.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=kush458&theme=modern-lilac2" />
+
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kush458&label=Profile%20views&color=f75d36&style=flat" alt="kush458" /> </p>
