@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kush Arora</h1>
-<h3 align="center">An aspiring Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <div align="center">
   <img width="40%" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611e4b3dd4e9f7d478e006635e3dec2bb84323f1427&amp;rid=giphy.gif&amp;ct=g" />
