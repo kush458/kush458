@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kush Arora</h1>
-<h3 align="center">Software Engineer</h3>
 
 <div align="center">
   <img width="40%" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611e4b3dd4e9f7d478e006635e3dec2bb84323f1427&amp;rid=giphy.gif&amp;ct=g" />
 </div>
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Languages</h3>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -15,7 +14,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-<h3 align="left">Libraries, Frameworks & Tools:</h3>
+<h3 align="left">Libraries, Frameworks & Tools</h3>
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
@@ -38,13 +37,13 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<h3 align="left">Hosting:</h3>
+<h3 align="left">Hosting</h3>
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
-<h3 align="left">Databases:</h3>
+<h3 align="left">Databases</h3>
 
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
@@ -53,10 +52,7 @@
 
 <br/>
 
-**📈 My Github Stats:**
+<h3 align="left">📈 My Github Stats</h3>
 <div>
-  <img align="left" width="46.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=kush458&theme=modern-lilac2" />
-
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kush458&theme=modern-lilac2" />
 </div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kush458&label=Profile%20views&color=f75d36&style=flat" alt="kush458" /> </p>
