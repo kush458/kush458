@@ -50,8 +50,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-<br/>
-
 <h3 align="left">📈 My Github Stats</h3>
 <div>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kush458&theme=modern-lilac2" />
